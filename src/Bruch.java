@@ -15,14 +15,13 @@ public class Bruch {
     public int getDenominator() {
         return denominator;
     }
-/*
+
     public double toDecimal() {
         // TODO: Die Methode soll den Dezimalwert zum Bruch retournieren
         // Achtung: Ganzzahldivision!
-        double decimalzahl = numerator / denominator*1.0;
-        return decimalzahl;
+        return numerator / denominator*1.0;
     }
-*/
+
     public String print() {
         // TODO: Die Methode soll den Bruch als Text retournieren z.B.: "5 / 7"
         return "";
