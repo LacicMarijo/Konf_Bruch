@@ -22,6 +22,7 @@ public class Bruch {
         return numerator / denominator*1.0;
     }
 
+
     public String print() {
         // TODO: Die Methode soll den Bruch als Text retournieren z.B.: "5 / 7"
 
